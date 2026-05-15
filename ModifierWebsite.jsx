@@ -1,3 +1,4 @@
+const ModifierWebsite = () => { ... }; export default ModifierWebsite;
 import { useEffect, useRef, useState } from "react";
 import BrandLogo from "./components/BrandLogo";
 import MaterialIcon from "./components/MaterialIcon";
